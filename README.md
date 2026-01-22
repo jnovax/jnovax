@@ -50,24 +50,14 @@ Hiện tại tôi tập trung vào:
 - CI/CD: GitLab CI
 - Monitoring: Prometheus + Grafana, ELK stack
 
-## 📈 Một chút thống kê
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novax&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=novax&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=novax&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
-
 <br/>
 
 ## 🌱 Hiện đang học / khám phá
 
-- *Go cho microservices hiệu năng cao*
-- *System design*
+- Go cho microservices hiệu năng cao
+- System design
 - *AI / LLM Agent hỗ trợ*
+- *Game engines*
 
 ## 📫 Liên hệ
 
